@@ -5,6 +5,8 @@
 ```py
 print("ㄔㄐㄐ")
 ```
-</br>
+</br></br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/851062442330816522)](https://discord.com/users/851062442330816522)
 
 喔對,[這裡](https://hansnana.xyz)是我的其他介紹
