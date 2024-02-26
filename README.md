@@ -1,6 +1,6 @@
 ### 嘿泥好 👋
 
-##### 最近剛過的驗證機器人去用一下嗎</br>https://discordservers.tw/bots/1126517167966396436</br></br>
+##### 最近剛過的驗證機器人去用一下嗎</br>https://discord.com/application-directory/1126517167966396436</br></br>
 想學python?</br>
 我教你：</br>
 ```py
