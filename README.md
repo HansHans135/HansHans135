@@ -1,9 +1,6 @@
 ### 嘿泥好 👋
 
 ##### 最近剛過的驗證機器人去用一下嗎</br>[https://discord.com/application-directory/1126517167966396436](https://discord.com/application-directory/1126517167966396436)</br></br>
-給我一杯咖啡ㄇ
-
-<a href="https://www.buymeacoffee.com/08.hans_" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 
