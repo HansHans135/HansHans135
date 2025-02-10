@@ -1,7 +1,7 @@
 # 👋 Hello World!
----
+
 ## 🌐 About Me
-Hi there! I'm Hans, a passionate developer focused on creating innovative solutions.
+Hi there! I'm Hans, a student passionate about technology and software development.
 
 ## 🛠️ Tech Stack
 - **Programming Languages**:
