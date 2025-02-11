@@ -20,7 +20,7 @@ Hi there! I'm Hans, a student passionate about technology and software developme
   - Server Management
 
 ## 🏆 Community Involvement
-- **Students’ Information Technology Conference**:
+- **Students’ Information Technology Conference**
   - 2024 / Staff Team
   - 2025 / Administrative Team
 - **TTHJCC CTF**
@@ -28,6 +28,10 @@ Hi there! I'm Hans, a student passionate about technology and software developme
 - **Conference for Open Source Coders**
   - 2024 / Attendee
   - 2023 / Attendee
+- **CYBERSEC 2025**
+  - 2024 / Attendee
+- **National High School Skills Competition of Information**
+  - 2025 / Player (Software Development)
 
 ## 📫 Get in Touch
 - Email: hi@hans08005.me
@@ -36,8 +40,7 @@ Hi there! I'm Hans, a student passionate about technology and software developme
 
 ---
 
-*Powered by passion and continuous learning*
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/851062442330816522)](https://discord.com/users/851062442330816522)</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanshans135&theme=dark)](https://github.com/hanshans135)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanshans135&layout=compact)](https://github.com/hanshans135)
+*Powered by passion and continuous learning*
