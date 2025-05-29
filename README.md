@@ -36,6 +36,7 @@ Hi there! I'm Hans, a student passionate about technology and software developme
 - **[Students’ Information Technology Conference (SITCON)](https://sitcon.org/)**
   - 2024 / Staff Team
   - 2025 / Administrative Team
+  - 2025 Camp / Lecturer
 - **[TTHJCC CTF](https://www.instagram.com/thjcc.tw/)**
   - 2 Seasons / Secretary
 - **[Conference for Open Source Coders (COSCUP)](https://coscup.org/)**
@@ -43,6 +44,8 @@ Hi there! I'm Hans, a student passionate about technology and software developme
   - 2023 / Attendee
 - **[CYBERSEC](https://cybersec.ithome.com.tw/)**
   - 2024 / Attendee
+- **[COMPUTEX](https://www.computextaipei.com.tw/zh-tw/index.html)**
+  - 2025 / Attendee
 - **[National High School Skills Competition of Information](https://sci-me.k12ea.gov.tw/)**
   - 2025 / Player (Software Development)
 
