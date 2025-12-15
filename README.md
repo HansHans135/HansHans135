@@ -47,7 +47,7 @@ Hi there! I'm Hans, a student passionate about technology and software developme
 - **[COMPUTEX](https://www.computextaipei.com.tw/zh-tw/index.html)**
   - 2025 / Attendee
 - **[National High School Skills Competition of Information](https://sci-me.k12ea.gov.tw/)**
-  - 2025 / Player (Software Development)
+  - 2025 / 12th (Software Development)
 
 
 
